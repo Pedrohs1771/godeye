@@ -27,7 +27,7 @@ GOĐEYE is a security research tool designed for educational purposes to help un
 
 ```bash
 # Clone repository
-git clone https://github.com/Pedrohs1771/godeye.git
+git clone https://github.com/Pedrohs1771/godeye
 cd godeye
 
 # Install dependencies
@@ -63,7 +63,7 @@ Funcionalidades
 Instalação
 bash
 # Clone o repositório
-git clone https://github.com/seuusuario/godeye.git
+git clone https://github.com/seuusuario/godeye
 cd godeye
 
 # Instale as dependências
@@ -94,7 +94,7 @@ Acesso não autorizado a sistemas computacionais é ilegal. O autor não se resp
 Contact
 Discord: violeiro_bad
 
-GitHub: yourusername/godeye
+GitHub: Pedrohs1771/godeye
 
 License
 MIT License - See LICENSE for details
